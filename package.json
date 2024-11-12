@@ -1,0 +1,22 @@
+{
+  "name": "expresscalculator",
+  "version": "1.0.0",
+  "description": "calculator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisirizarry/Express-Calculator.git"
+  },
+  "author": "luis irizarry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisirizarry/Express-Calculator/issues"
+  },
+  "homepage": "https://github.com/luisirizarry/Express-Calculator#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
